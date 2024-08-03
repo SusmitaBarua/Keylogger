@@ -1,4 +1,4 @@
-##Keylogger
+## Keylogger
 
 A Python-based keylogger that records keystrokes.
 
@@ -14,10 +14,12 @@ A Python-based keylogger that records keystrokes.
 
     
     git clone https://github.com/SusmitaBarua/Keylogger
+
+
     cd Keylogger
     
 
-2. Install the required packages:
+3. Install the required packages:
 
 
 ## Usage
